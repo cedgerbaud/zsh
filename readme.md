@@ -4,7 +4,7 @@ Ce tuto a pour but d'expliquer la démarche à suivre pour installer zsh avec le
 
 Pour installer ce(s) plugin(s), nous utiliserons [Oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) qui est un gestionnaire de plugins pour zsh.
 
-![zsh-docker](/home/cedric/Videos/zsh-docker.gif)
+![zsh-docker](./images/zsh-docker.gif)
 
 ## Etape #1 - Installer zsh
 
@@ -108,7 +108,7 @@ Un des gros avantages de zsh en plus de ses plugins, c'est la possibilité de pe
 
 Par exemple :
 
-![image-20220523230921080](/home/cedric/snap/typora/57/.config/Typora/typora-user-images/image-20220523230921080.png)
+![image-20220523230921080](./images/p10k-screenshot.png)
 
 
 
